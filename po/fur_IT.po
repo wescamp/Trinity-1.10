@@ -9,8 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: nb\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: fur_IT\n"
 
 #. [campaign]: id=Trinity
 #: Trinity/_main.cfg:15
@@ -512,7 +511,7 @@ msgid ""
 "Queen Caldera had sent them when Haldrad was late and had sent no messenger "
 "explaining why.  Once they learned of the treachery by the people of Carcyn, "
 "they headed toward the town to punish the guilty.  This allowed Prince "
-"Haldrad and his party to continue back to Weldyn without further harrassment."
+"Haldrad and his party to continue back to Weldyn without fur_ITther harrassment."
 msgstr ""
 
 #. [objective]: condition=win
@@ -2444,7 +2443,7 @@ msgstr ""
 #: Trinity/scenarios/3_K06_Choice.cfg:165
 msgid ""
 "Then you were the one who sent the messanger bird, you can be trusted. As "
-"you know, we must head further east. Do you think we would be able to move "
+"you know, we must head fur_ITther east. Do you think we would be able to move "
 "past the Khthon? Or should the vulnerable forces and prisoners stay here, in "
 "more defensible terrain, while I go east by myself?"
 msgstr ""
@@ -5167,7 +5166,7 @@ msgstr ""
 #. [message]: speaker=Bresda
 #: Trinity/scenarios/F5a_Destroyer.cfg:807
 msgid ""
-"Stop! Before we go any further, we need to think about what we are doing."
+"Stop! Before we go any fur_ITther, we need to think about what we are doing."
 msgstr ""
 
 #. [message]: speaker=Haldrad
