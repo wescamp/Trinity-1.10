@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-04-12 14:24+0200\n"
+"POT-Creation-Date: 2011-05-07 13:52+0200\n"
 "PO-Revision-Date: 2011-02-21 15:37+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -59,7 +59,7 @@ msgid ""
 "forces of Weldyn save the world?\n"
 "\n"
 "(The sequel to and closure of Bad Moon Rising.  Requires Archaic Era add-"
-"on.) version 1.0.4"
+"on.) version 1.0.5"
 msgstr ""
 
 #. [about]
@@ -242,8 +242,8 @@ msgstr ""
 #: Trinity/scenarios/F5a_Destroyer.cfg:1639
 #: Trinity/scenarios/F1a_Onslaught.cfg:46
 #: Trinity/scenarios/F5b_Illusions.cfg:50
-#: Trinity/scenarios/F5b_Illusions.cfg:283 Trinity/scenarios/F4a_Hera.cfg:56
-#: Trinity/scenarios/3_H03_Spirits.cfg:44 Trinity/scenarios/Zb_Epilogue.cfg:36
+#: Trinity/scenarios/F5b_Illusions.cfg:333 Trinity/scenarios/F4a_Hera.cfg:56
+#: Trinity/scenarios/3_H03_Spirits.cfg:44 Trinity/scenarios/Zb_Epilogue.cfg:41
 #: Trinity/scenarios/Z_Epilogue.cfg:61 Trinity/scenarios/F2b_Pass.cfg:45
 #: Trinity/scenarios/F2b_Pass.cfg:803
 #: Trinity/scenarios/3_H05_Encounter.cfg:473
@@ -542,8 +542,8 @@ msgstr ""
 #: Trinity/scenarios/F5a_Destroyer.cfg:1643
 #: Trinity/scenarios/F1a_Onslaught.cfg:50
 #: Trinity/scenarios/F5b_Illusions.cfg:54
-#: Trinity/scenarios/F5b_Illusions.cfg:287 Trinity/scenarios/F4a_Hera.cfg:60
-#: Trinity/scenarios/3_H03_Spirits.cfg:48 Trinity/scenarios/Zb_Epilogue.cfg:40
+#: Trinity/scenarios/F5b_Illusions.cfg:337 Trinity/scenarios/F4a_Hera.cfg:60
+#: Trinity/scenarios/3_H03_Spirits.cfg:48 Trinity/scenarios/Zb_Epilogue.cfg:45
 #: Trinity/scenarios/Z_Epilogue.cfg:65 Trinity/scenarios/F2b_Pass.cfg:49
 #: Trinity/scenarios/F2b_Pass.cfg:807
 #: Trinity/scenarios/3_H05_Encounter.cfg:477
@@ -1933,7 +1933,7 @@ msgstr ""
 #: Trinity/units/Echidna-Low.cfg:8 Trinity/units/Echidna.cfg:5
 #: Trinity/scenarios/F5a_Destroyer.cfg:137
 #: Trinity/scenarios/F1a_Onslaught.cfg:183
-#: Trinity/scenarios/F5b_Illusions.cfg:348 Trinity/scenarios/F2b_Pass.cfg:246
+#: Trinity/scenarios/F5b_Illusions.cfg:406 Trinity/scenarios/F2b_Pass.cfg:246
 #: Trinity/scenarios/3_K04_Storm.cfg:187 Trinity/scenarios/3_K03_Lord.cfg:196
 #: Trinity/scenarios/F4b_Betrayal.cfg:117
 #: Trinity/scenarios/F1b_Wesmere.cfg:172
@@ -2029,7 +2029,7 @@ msgstr ""
 
 #. [objective]: condition=win
 #: Trinity/scenarios/F5b_Illusions.cfg:46
-#: Trinity/scenarios/F5b_Illusions.cfg:279
+#: Trinity/scenarios/F5b_Illusions.cfg:329
 #: Trinity/scenarios/3_P05_Landing.cfg:61
 #: Trinity/scenarios/3_P05_Landing.cfg:327
 #: Trinity/scenarios/3_P05_Landing.cfg:413
@@ -2224,6 +2224,7 @@ msgstr ""
 #. [objective]: condition=win
 #. [message]: speaker=Nemesis
 #. [message]: speaker=Dardrus
+#. [message]: speaker=Seth_il
 #. [message]: speaker=Saleanna
 #. [message]: speaker=Daenyr
 #. [message]: speaker=Ponce
@@ -2235,7 +2236,9 @@ msgstr ""
 #: Trinity/units/Bresda.cfg:93 Trinity/units/Bresda.cfg:184
 #: Trinity/scenarios/F5a_Destroyer.cfg:32
 #: Trinity/scenarios/F5a_Destroyer.cfg:1740
-#: Trinity/scenarios/F5b_Illusions.cfg:663
+#: Trinity/scenarios/F5b_Illusions.cfg:726
+#: Trinity/scenarios/F5b_Illusions.cfg:1213
+#: Trinity/scenarios/F5b_Illusions.cfg:1326
 #: Trinity/scenarios/3_K04_Storm.cfg:774 Trinity/scenarios/3_K04_Storm.cfg:778
 #: Trinity/scenarios/3_P04_Engine.cfg:233
 msgid "..."
@@ -2560,7 +2563,7 @@ msgstr ""
 #: Trinity/scenarios/F5a_Destroyer.cfg:1537
 #: Trinity/scenarios/F5a_Destroyer.cfg:1647
 #: Trinity/scenarios/F1a_Onslaught.cfg:54 Trinity/scenarios/F4a_Hera.cfg:64
-#: Trinity/scenarios/Zb_Epilogue.cfg:44 Trinity/scenarios/Z_Epilogue.cfg:69
+#: Trinity/scenarios/Zb_Epilogue.cfg:49 Trinity/scenarios/Z_Epilogue.cfg:69
 #: Trinity/scenarios/3_P05_Landing.cfg:69
 #: Trinity/scenarios/3_P05_Landing.cfg:335
 #: Trinity/scenarios/3_P05_Landing.cfg:421 Trinity/scenarios/F2b_Pass.cfg:53
@@ -2594,7 +2597,7 @@ msgstr ""
 #. [side]: type=Primeval Nemesislow, id=Nemesis_
 #: Trinity/scenarios/F5a_Destroyer.cfg:157
 #: Trinity/scenarios/F1a_Onslaught.cfg:209
-#: Trinity/scenarios/F5b_Illusions.cfg:377 Trinity/scenarios/F4a_Hera.cfg:168
+#: Trinity/scenarios/F5b_Illusions.cfg:435 Trinity/scenarios/F4a_Hera.cfg:168
 #: Trinity/scenarios/Z_Epilogue.cfg:119
 #: Trinity/scenarios/3_P05_Landing.cfg:135 Trinity/scenarios/F2b_Pass.cfg:201
 #: Trinity/scenarios/3_P04p2_Blockage.cfg:161
@@ -4295,7 +4298,7 @@ msgstr ""
 #: Trinity/scenarios/F5a_Destroyer.cfg:2683
 #: Trinity/scenarios/F5a_Destroyer.cfg:2711
 #: Trinity/scenarios/F1a_Onslaught.cfg:800
-#: Trinity/scenarios/F5b_Illusions.cfg:855 Trinity/scenarios/F4a_Hera.cfg:520
+#: Trinity/scenarios/F5b_Illusions.cfg:991 Trinity/scenarios/F4a_Hera.cfg:520
 #: Trinity/scenarios/F2b_Pass.cfg:605 Trinity/scenarios/F4b_Betrayal.cfg:625
 #: Trinity/scenarios/F3b_Vrug.cfg:593 Trinity/scenarios/F1b_Wesmere.cfg:538
 #: Trinity/scenarios/F3a_Phantom.cfg:643
@@ -4304,7 +4307,7 @@ msgstr ""
 
 #. [message]: speaker=Haldrad
 #: Trinity/scenarios/F1a_Onslaught.cfg:828
-#: Trinity/scenarios/F5b_Illusions.cfg:869 Trinity/scenarios/F4a_Hera.cfg:534
+#: Trinity/scenarios/F5b_Illusions.cfg:1005 Trinity/scenarios/F4a_Hera.cfg:534
 #: Trinity/scenarios/F2b_Pass.cfg:619 Trinity/scenarios/F4b_Betrayal.cfg:639
 #: Trinity/scenarios/F3b_Vrug.cfg:607 Trinity/scenarios/F1b_Wesmere.cfg:552
 #: Trinity/scenarios/F3a_Phantom.cfg:686
@@ -4312,8 +4315,7 @@ msgid "I have no credibility with the winged one, Dardrus was my only hope..."
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F1a_Onslaught.cfg:842
-#: Trinity/scenarios/F5b_Illusions.cfg:883 Trinity/scenarios/F2b_Pass.cfg:633
+#: Trinity/scenarios/F1a_Onslaught.cfg:842 Trinity/scenarios/F2b_Pass.cfg:633
 #: Trinity/scenarios/F3b_Vrug.cfg:621 Trinity/scenarios/F1b_Wesmere.cfg:566
 msgid ""
 "We may still survive this Khthon onslaught, but I doubt Nemesis will remain "
@@ -4475,7 +4477,7 @@ msgid "<i>*Sneeze!*</i>  I can hardly-<i>*Sneeze!*</i>-gahh."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:897 Trinity/scenarios/F2b_Pass.cfg:647
+#: Trinity/scenarios/F5b_Illusions.cfg:1019 Trinity/scenarios/F2b_Pass.cfg:647
 #: Trinity/scenarios/F4b_Betrayal.cfg:679 Trinity/scenarios/F3b_Vrug.cfg:635
 #: Trinity/scenarios/F1b_Wesmere.cfg:580
 msgid ""
@@ -4525,35 +4527,35 @@ msgid "That's it!  Let's move, Keldan.  We must act fast!"
 msgstr ""
 
 #. [message]: speaker=Keldan_a
-#: Trinity/scenarios/F5b_Illusions.cfg:1055 Trinity/scenarios/F2b_Pass.cfg:831
+#: Trinity/scenarios/F5b_Illusions.cfg:1354 Trinity/scenarios/F2b_Pass.cfg:831
 #: Trinity/scenarios/F4b_Betrayal.cfg:694 Trinity/scenarios/F3b_Vrug.cfg:793
 #: Trinity/scenarios/F1b_Wesmere.cfg:710
 msgid "I sense something..."
 msgstr ""
 
 #. [message]: speaker=Echidna_a
-#: Trinity/scenarios/F5b_Illusions.cfg:1059 Trinity/scenarios/F2b_Pass.cfg:835
+#: Trinity/scenarios/F5b_Illusions.cfg:1358 Trinity/scenarios/F2b_Pass.cfg:835
 #: Trinity/scenarios/F4b_Betrayal.cfg:698 Trinity/scenarios/F3b_Vrug.cfg:797
 #: Trinity/scenarios/F1b_Wesmere.cfg:714
 msgid "I know what this is, scatter!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Trinity/scenarios/F5b_Illusions.cfg:1063 Trinity/scenarios/F2b_Pass.cfg:839
+#: Trinity/scenarios/F5b_Illusions.cfg:1362 Trinity/scenarios/F2b_Pass.cfg:839
 #: Trinity/scenarios/F4b_Betrayal.cfg:702 Trinity/scenarios/F3b_Vrug.cfg:801
 #: Trinity/scenarios/F1b_Wesmere.cfg:718
 msgid "The air turned dark and thick."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:1084 Trinity/scenarios/F2b_Pass.cfg:860
+#: Trinity/scenarios/F5b_Illusions.cfg:1383 Trinity/scenarios/F2b_Pass.cfg:860
 #: Trinity/scenarios/F4b_Betrayal.cfg:723 Trinity/scenarios/F3b_Vrug.cfg:822
 #: Trinity/scenarios/F1b_Wesmere.cfg:739
 msgid "What is happening?"
 msgstr ""
 
 #. [message]: speaker=Bresda
-#: Trinity/scenarios/F5b_Illusions.cfg:1088 Trinity/scenarios/F2b_Pass.cfg:864
+#: Trinity/scenarios/F5b_Illusions.cfg:1387 Trinity/scenarios/F2b_Pass.cfg:864
 #: Trinity/scenarios/F4b_Betrayal.cfg:727 Trinity/scenarios/F3b_Vrug.cfg:826
 #: Trinity/scenarios/F1b_Wesmere.cfg:743
 msgid "I don't know!"
@@ -5121,7 +5123,7 @@ msgstr ""
 
 #. [message]: speaker=Haldrad
 #. [message]: speaker=second_unit
-#: Trinity/scenarios/F5b_Illusions.cfg:772
+#: Trinity/scenarios/F5b_Illusions.cfg:852
 #: Trinity/scenarios/F3a_Phantom.cfg:542
 msgid "What?"
 msgstr ""
@@ -5389,55 +5391,55 @@ msgid "Which seems to be what you are doing!  Bad move!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Trinity/scenarios/F5b_Illusions.cfg:912 Trinity/scenarios/F3b_Vrug.cfg:650
+#: Trinity/scenarios/F3b_Vrug.cfg:650
 msgid "Grrr..."
 msgstr ""
 
 #. [message]: speaker=Keldan_a
-#: Trinity/scenarios/F5b_Illusions.cfg:916 Trinity/scenarios/F3b_Vrug.cfg:654
+#: Trinity/scenarios/F3b_Vrug.cfg:654
 msgid "That's a good start..."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:949 Trinity/scenarios/F3b_Vrug.cfg:686
+#: Trinity/scenarios/F3b_Vrug.cfg:686
 msgid "We've cleared the orcs out of your way, why don't you let her go now?"
 msgstr ""
 
 #. [message]: speaker=Keldan_a
-#: Trinity/scenarios/F5b_Illusions.cfg:953 Trinity/scenarios/F3b_Vrug.cfg:690
+#: Trinity/scenarios/F3b_Vrug.cfg:690
 msgid "You will let us pass, then I will let her go."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:957 Trinity/scenarios/F3b_Vrug.cfg:694
+#: Trinity/scenarios/F3b_Vrug.cfg:694
 msgid "What choice do we have?"
 msgstr ""
 
 #. [message]: speaker=Nemesis
-#: Trinity/scenarios/F5b_Illusions.cfg:961 Trinity/scenarios/F3b_Vrug.cfg:698
+#: Trinity/scenarios/F3b_Vrug.cfg:698
 msgid ""
 "I'm losing patience!  I will let you pass, but don't look back...  I will "
 "strike you like lightning!"
 msgstr ""
 
 #. [message]: speaker=Keldan_a
-#: Trinity/scenarios/F5b_Illusions.cfg:1006 Trinity/scenarios/F3b_Vrug.cfg:743
+#: Trinity/scenarios/F3b_Vrug.cfg:743
 msgid "You kept your word, I'll keep mine.  She is free."
 msgstr ""
 
 #. [message]: speaker=Bresda_a
-#: Trinity/scenarios/F5b_Illusions.cfg:1022 Trinity/scenarios/F3b_Vrug.cfg:759
+#: Trinity/scenarios/F3b_Vrug.cfg:759
 msgid "The bastard drugged me, I'm still unsteady on my feet."
 msgstr ""
 
 #. [message]: speaker=Nemesis
-#: Trinity/scenarios/F5b_Illusions.cfg:1026 Trinity/scenarios/F3b_Vrug.cfg:763
+#: Trinity/scenarios/F3b_Vrug.cfg:763
 msgid ""
 "You're safe, it will pass.  Now, I will go dispatch that green-eyed cretin!"
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:1030 Trinity/scenarios/F3b_Vrug.cfg:767
+#: Trinity/scenarios/F3b_Vrug.cfg:767
 msgid ""
 "Nemesis, recent events don't make much sense to me.  Why did he kidnap her, "
 "then let her go in exchange for help with forces he and Echidna could have "
@@ -5445,19 +5447,19 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:1034 Trinity/scenarios/F3b_Vrug.cfg:771
+#: Trinity/scenarios/F3b_Vrug.cfg:771
 msgid "It is a trap!"
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:1038 Trinity/scenarios/F3b_Vrug.cfg:775
+#: Trinity/scenarios/F3b_Vrug.cfg:775
 msgid ""
 "He probably wants Nemesis to chase after him, so that we are separated.  "
 "Then Echidna will strike."
 msgstr ""
 
 #. [message]: speaker=Nemesis
-#: Trinity/scenarios/F5b_Illusions.cfg:1042 Trinity/scenarios/F3b_Vrug.cfg:779
+#: Trinity/scenarios/F3b_Vrug.cfg:779
 msgid ""
 "What kind of god would I be if I let that happen...  Very well, when you are "
 "rested and able, we will head down the river."
@@ -5513,20 +5515,20 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Trinity/scenarios/F4a_Hera.cfg:52 Trinity/scenarios/Zb_Epilogue.cfg:32
+#: Trinity/scenarios/F4a_Hera.cfg:52 Trinity/scenarios/Zb_Epilogue.cfg:37
 #: Trinity/scenarios/Z_Epilogue.cfg:57
 msgid "Gain entrance to the airship (move to one of the holes near top of map)"
 msgstr ""
 
 #. [objectives]
-#: Trinity/scenarios/F4a_Hera.cfg:70 Trinity/scenarios/Zb_Epilogue.cfg:46
+#: Trinity/scenarios/F4a_Hera.cfg:70 Trinity/scenarios/Zb_Epilogue.cfg:51
 #: Trinity/scenarios/Z_Epilogue.cfg:71
 msgid "Do not stay in the keeps for too long."
 msgstr ""
 
 #. [side]: type=Primeval Hera, id=Hera
 #: Trinity/scenarios/F5a_Destroyer.cfg:527 Trinity/scenarios/F4a_Hera.cfg:145
-#: Trinity/scenarios/Zb_Epilogue.cfg:71 Trinity/scenarios/Z_Epilogue.cfg:96
+#: Trinity/scenarios/Z_Epilogue.cfg:96
 msgid "Hera"
 msgstr ""
 
@@ -5718,7 +5720,7 @@ msgstr ""
 #. [side]: type=Seth, id=Seth_il
 #. [side]: type=Seth, id=Seth
 #: Trinity/scenarios/F5b_Illusions.cfg:100
-#: Trinity/scenarios/F5b_Illusions.cfg:397
+#: Trinity/scenarios/F5b_Illusions.cfg:455
 #: Trinity/scenarios/F4b_Betrayal.cfg:258
 msgid "Seth"
 msgstr ""
@@ -6847,163 +6849,205 @@ msgid ""
 "we might as well pick up the sceptre."
 msgstr ""
 
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:196
+msgid ""
+"Prince!  You are walking into a trap!  This is the work of the outsider, "
+"Ishtu save us!"
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:200
+msgid "Who are you?  What are you talking about?"
+msgstr ""
+
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:204
+msgid ""
+"I was a prisoner on one of your wagons.  I had been a countryman of Bresda "
+"Varden, with whom you are acquainted.  A demon imposter walked amongst you, "
+"pretending to be the winged god Ishtu.  Poor Bresda and many of her "
+"followers were fooled and tried to have those of us with clear eyes killed."
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:208
+msgid "Well then, you'll be glad to know-"
+msgstr ""
+
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:212
+msgid ""
+"I know!  But though the winged demon was an imposter, I'm afraid the rest of "
+"the enemy is not!  The outsider is awakening and will destroy all.  Yet it "
+"toys with us.  I know not why."
+msgstr ""
+
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/F5b_Illusions.cfg:216
+msgid ""
+"Nemesis was not an imposter, you do not know as much as you think.  However, "
+"there is much truth to what you say."
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:220
+msgid ""
+"We need to keep moving, unless either of you have a suggestion as I can "
+"actuallly act upon? ... ...  No?  Well then, let's keep moving."
+msgstr ""
+
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:202
+#: Trinity/scenarios/F5b_Illusions.cfg:251
 msgid "Ha!  Lured by your shiny little trinkets..."
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:214
+#: Trinity/scenarios/F5b_Illusions.cfg:263
 msgid "I could destroy you now, but I need your help..."
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:223
+#: Trinity/scenarios/F5b_Illusions.cfg:272
 msgid "Of course, I cannot tell you more than that!  Lights out!"
 msgstr ""
 
 #. [scenario]: id=F5b_b
-#: Trinity/scenarios/F5b_Illusions.cfg:240
+#: Trinity/scenarios/F5b_Illusions.cfg:289
 msgid "Illusions II"
 msgstr ""
 
 #. [part]
-#: Trinity/scenarios/F5b_Illusions.cfg:252
+#: Trinity/scenarios/F5b_Illusions.cfg:301
 msgid ""
 "A cold wind blew through the halls of the ice-cave, and everyone lost "
 "consciousness."
 msgstr ""
 
 #. [part]
-#: Trinity/scenarios/F5b_Illusions.cfg:256
+#: Trinity/scenarios/F5b_Illusions.cfg:305
 msgid ""
 "When they awoke, they were in high grass under an oddly red and dark sky."
 msgstr ""
 
 #. [time]: id=tri_red
-#: Trinity/scenarios/F5b_Illusions.cfg:264
+#: Trinity/scenarios/F5b_Illusions.cfg:313
 msgid "Red Sky"
 msgstr ""
 
 #. [objectives]
-#: Trinity/scenarios/F5b_Illusions.cfg:289
+#: Trinity/scenarios/F5b_Illusions.cfg:339
 msgid ""
 "This scenario can be played, but it is not really done.  It will be "
 "revised.  Eventually."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:427
+#: Trinity/scenarios/F5b_Illusions.cfg:485
 msgid "<i>Now what?</i>  Where are we now?"
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:431
+#: Trinity/scenarios/F5b_Illusions.cfg:489
 msgid "We are nowhere, this is not happening..."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:435
+#: Trinity/scenarios/F5b_Illusions.cfg:493
 msgid "'Nowhere'?  What are you talking about?"
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:439
+#: Trinity/scenarios/F5b_Illusions.cfg:497
 msgid "It doesn't matter...  I shouldn't have said anything."
 msgstr ""
 
 #. [message]
-#: Trinity/scenarios/F5b_Illusions.cfg:443
+#: Trinity/scenarios/F5b_Illusions.cfg:501
 msgid "Is that a statue?"
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:458
+#: Trinity/scenarios/F5b_Illusions.cfg:516
 msgid "I doubt it, and neither is that thing in the cave."
 msgstr ""
 
 #. [message]: speaker=Echidna_il
-#: Trinity/scenarios/F5b_Illusions.cfg:462
+#: Trinity/scenarios/F5b_Illusions.cfg:520
 msgid ""
 "You do not have that winged she-devil to hide behind anymore.  You're mine!"
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:475
+#: Trinity/scenarios/F5b_Illusions.cfg:533
 msgid "I don't like our position, it's rather exposed."
 msgstr ""
 
-#. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:479
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:537
 msgid "There is a ruin to the southwest, that might be better."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:489
+#: Trinity/scenarios/F5b_Illusions.cfg:547
 msgid "Right, let's go there."
 msgstr ""
 
 #. [message]: speaker=Echidna_il
-#: Trinity/scenarios/F5b_Illusions.cfg:497
+#: Trinity/scenarios/F5b_Illusions.cfg:555
 msgid ""
 "I have defeated the Nemesis, I will wipe out the rest of you, and then..."
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:501
+#: Trinity/scenarios/F5b_Illusions.cfg:559
 msgid "And then what?"
 msgstr ""
 
 #. [message]: speaker=Echidna_il
-#: Trinity/scenarios/F5b_Illusions.cfg:505
+#: Trinity/scenarios/F5b_Illusions.cfg:563
 msgid "I ... I - <i>Silence!</i>"
 msgstr ""
 
-#. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:509
-msgid ""
-"(I thought so.  She is either as in the dark as we are, or she is not real.)"
-msgstr ""
-
-#. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:513
-msgid "(There you go again, what is this 'not real'?)"
+#. [message]: speaker=Echidna_il
+#: Trinity/scenarios/F5b_Illusions.cfg:592
+msgid "Ha!  I will-"
 msgstr ""
 
 #. [message]: speaker=Echidna_il
-#: Trinity/scenarios/F5b_Illusions.cfg:534
+#: Trinity/scenarios/F5b_Illusions.cfg:597
 msgid "I don't feel well.  I ..."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:570
+#: Trinity/scenarios/F5b_Illusions.cfg:633
 msgid "What did she say?"
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:574
+#: Trinity/scenarios/F5b_Illusions.cfg:637
 msgid "Nothing I could understand, I suspect it was nothing..."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:578
+#: Trinity/scenarios/F5b_Illusions.cfg:641
 msgid "(Huh?)"
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:582
+#: Trinity/scenarios/F5b_Illusions.cfg:645
 msgid "I'd like to get a better look at my 'countrymen'."
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:609
+#: Trinity/scenarios/F5b_Illusions.cfg:672
 msgid ""
 "There is something wrong with these.  They don't really fight like they "
 "should, and there is a vacantness in their eyes."
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:651
+#: Trinity/scenarios/F5b_Illusions.cfg:714
 msgid ""
 "Echidna and her kind had spent too much time amongst the denizens of this "
 "pathetic planet.  I needed to study her interactions with you, so I could "
@@ -7011,12 +7055,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:655
+#: Trinity/scenarios/F5b_Illusions.cfg:718
 msgid "Very nice, why are you telling us this?"
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:659
+#: Trinity/scenarios/F5b_Illusions.cfg:722
 msgid ""
 "Unfortunately, much of the corruption was not caused by interaction with "
 "weaklings such as yourselves, Prince.  Rather, it was the red-eyed ones like "
@@ -7024,96 +7068,175 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:667
+#: Trinity/scenarios/F5b_Illusions.cfg:730
 msgid "But I will learn!"
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:671
+#: Trinity/scenarios/F5b_Illusions.cfg:734
 msgid "I don't see a way out of this, but folding won't help."
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:698
+#: Trinity/scenarios/F5b_Illusions.cfg:761
 msgid "I think I've learned all I need to learn from you..."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:721
+#: Trinity/scenarios/F5b_Illusions.cfg:779
 msgid "(I am confused as ever.)  What happens now?"
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:725
+#: Trinity/scenarios/F5b_Illusions.cfg:788
 msgid "Now, you shall watch as I consume your world."
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:729
+#: Trinity/scenarios/F5b_Illusions.cfg:792
 msgid "Gloating, huh?"
 msgstr ""
 
 #. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:734
+#: Trinity/scenarios/F5b_Illusions.cfg:797
 msgid "I do not gloat..."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:742
+#: Trinity/scenarios/F5b_Illusions.cfg:805
 msgid "What can we do?"
 msgstr ""
 
-#. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:764
-msgid "The ringing!  How do you even think?"
-msgstr ""
-
-#. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:776
-msgid "It doesn't stop, but neither can I."
-msgstr ""
-
-#. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:784
-msgid "This will never, ever, <b>ever</b>... "
-msgstr ""
-
-#. [message]: role=patsy
-#: Trinity/scenarios/F5b_Illusions.cfg:789
-msgid "Grahh!"
-msgstr ""
-
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:801
+#: Trinity/scenarios/F5b_Illusions.cfg:881
 msgid "Insanity!  I wish I knew whether it was part of the vile plan or not."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:805
+#: Trinity/scenarios/F5b_Illusions.cfg:885
 msgid ""
 "History has it that the Ruby caused our earlier kings to go insane, until it "
 "was shielded by the Sceptre.  Maybe the evil spirits are weak to this as "
 "well?"
 msgstr ""
 
-#. [message]: speaker=Seth_il
-#: Trinity/scenarios/F5b_Illusions.cfg:823
-msgid "We ... We ... Grrr..."
+#. [unit]: type=Trinity Claw, id=Right Hand
+#: Trinity/scenarios/F5b_Illusions.cfg:916
+msgid "Right Hand"
 msgstr ""
 
-#. [message]: speaker=Dardrus
-#: Trinity/scenarios/F5b_Illusions.cfg:835
+#. [unit]: type=Trinity Claw, id=Left Hand
+#: Trinity/scenarios/F5b_Illusions.cfg:927
+msgid "Left Hand"
+msgstr ""
+
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:971
 msgid "I hear a voice, in my head."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F5b_Illusions.cfg:839
-msgid "I hear it too!  What does it mean?"
+#: Trinity/scenarios/F5b_Illusions.cfg:975
+msgid "I hear it too!  It sounds familiar...  What does it mean?"
+msgstr ""
+
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/F5b_Illusions.cfg:1078
+msgid "The, uh, mother storm doesn't look so healthy..."
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:1088
+msgid ""
+"Does killing the little things weaken it?  Maybe we can do this, we can "
+"dispatch the vile vapor?"
+msgstr ""
+
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:1092
+msgid ""
+"Can we be so lucky?  We are not gods, can we really manage?  (I should not "
+"think such thoughts.)"
+msgstr ""
+
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:1175
+msgid "Have we defeated it?  Have we done the work of gods!?"
+msgstr ""
+
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/F5b_Illusions.cfg:1179
+msgid "I hope so, though I'd hesitate to think of us as gods."
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:1183
+msgid ""
+"Are we really up in the air?  Are we going to crash?  How do we get home ..."
+msgstr ""
+
+#. [message]: speaker=Caldera_il
+#: Trinity/scenarios/F5b_Illusions.cfg:1236
+msgid "Haldrad!  My Son!  I have the Sceptre!  We can save the Kindom!"
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:1240
+msgid "...  What?"
+msgstr ""
+
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/F5b_Illusions.cfg:1244
+msgid "(How does it know?)  Prince, surely you can see what that is?"
+msgstr ""
+
+#. [message]: speaker=Caldera_il
+#: Trinity/scenarios/F5b_Illusions.cfg:1248
+msgid ""
+"My words are broken, I know, I have been a prisoner.  But now I can change "
+"events.  Not all is as it appears - just let me kill your master, and we "
+"will be free."
+msgstr ""
+
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/F5b_Illusions.cfg:1252
+msgid "Prince, don't be fooled."
+msgstr ""
+
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/F5b_Illusions.cfg:1256
+msgid "The Outsider is weak and trying to deceive us!"
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:1291
+msgid ""
+"Dardrus, you were right.  This is not real, but it was an attempt by the "
+"Enemy to use us."
+msgstr ""
+
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/F5b_Illusions.cfg:1295
+msgid ""
+"To be honest, I was not sure this was not real.  But, yes, this is not "
+"real.  Know this, don't let the Outsider fool you, and we shall be free."
+msgstr ""
+
+#. [message]: speaker=Ponce
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/F5b_Illusions.cfg:1304
+#: Trinity/scenarios/F5b_Illusions.cfg:1331
+msgid "The voices are getting very loud!"
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F5b_Illusions.cfg:1335
+msgid "What?  You'll need to speak up!  The voices are deafening!"
 msgstr ""
 
 #. [scenario]: id=Epilog_b
 #. [scenario]: id=Epilogue
-#: Trinity/scenarios/Zb_Epilogue.cfg:8 Trinity/scenarios/Z_Epilogue.cfg:6
+#: Trinity/scenarios/Zb_Epilogue.cfg:9 Trinity/scenarios/Z_Epilogue.cfg:6
 msgid "Epilogue"
 msgstr ""
 
@@ -7176,12 +7299,92 @@ msgid ""
 msgstr ""
 
 #. [part]
-#: Trinity/scenarios/Zb_Epilogue.cfg:20
-msgid "There needs to be a better epilogue than this..."
+#: Trinity/scenarios/Zb_Epilogue.cfg:21
+msgid ""
+"The air turned dark, the red sky and cloud-like enemy faded out of Haldrad's "
+"vision, and a roaring sound filled his ears, not quite drowning out the "
+"voices shouting in his head."
+msgstr ""
+
+#. [part]
+#: Trinity/scenarios/Zb_Epilogue.cfg:25
+msgid ""
+"Eventually, there was light glowing through his eyelids, and the voices "
+"started to make sense.  Haldrad looked up and saw Queen Caldera looking down "
+"on him.  All around them, the land was ripped apart as though a great storm "
+"had passed through.  Members of Haldrad's forces were picking themselves up "
+"off the ground, while other people were running around."
+msgstr ""
+
+#. [message]: speaker=Caldera
+#: Trinity/scenarios/Zb_Epilogue.cfg:121
+msgid "You're awake!  I was worried you'd been brained."
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/Zb_Epilogue.cfg:125
+msgid "No, my brain is fine...  How did we get back here?"
+msgstr ""
+
+#. [message]: speaker=Caldera
+#: Trinity/scenarios/Zb_Epilogue.cfg:129
+msgid ""
+"Just after you opened the prison wagons (I hope to never see one of those "
+"again) a powerful wind blew and tossed everything about.  Anyone who was not "
+"a fool got down to the ground, I saw not what happened as the winds blewover "
+"head."
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/Zb_Epilogue.cfg:133
+msgid "I see you have the Sceptre..."
+msgstr ""
+
+#. [message]: speaker=Caldera
+#: Trinity/scenarios/Zb_Epilogue.cfg:137
+msgid ""
+"When the wind calmed and skies cleared, we that survived saw bodies and "
+"litter strewn about.  To our surprise and relief, the bodies were not "
+"corpses but merely people sleeping.  The Sceptre was found and brought to "
+"me, and here we are now, the sleeping bodies are awakening."
+msgstr ""
+
+#. [message]: speaker=Ponce
+#: Trinity/scenarios/Zb_Epilogue.cfg:142
+msgid "Up in the sky!  A new sun?"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Trinity/scenarios/Zb_Epilogue.cfg:146
+msgid ""
+"All looked up to see what did indeed appear to be a new sun.  The awe "
+"started to give way to confusion, which could give way to panic if someone "
+"didn't do something."
+msgstr ""
+
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/Zb_Epilogue.cfg:151
+msgid "It ... looks like we ... made it out of there just in time."
+msgstr ""
+
+#. [message]: speaker=Dardrus
+#: Trinity/scenarios/Zb_Epilogue.cfg:155
+msgid ""
+"Indeed, is that the dying enemy?  Your Sceptre has tainted the foul outsider."
+msgstr ""
+
+#. [message]: speaker=Caldera
+#: Trinity/scenarios/Zb_Epilogue.cfg:159
+msgid ""
+"We have defeated the plague and insanity that had threatened this realm.  "
+"Now we must rebuild, but first let us make our way to Elensefar to recover "
+"our strength.  This new light shall give us new opportunity, let us rise to "
+"the occasion."
 msgstr ""
 
 #. [unit_type]: id=Trinity Avatar, race=phantom_spirit
-#: Trinity/units/Ancient_Avatar.cfg:5
+#. [unit_type]: id=Trinity Avatar2, race=phantom_spirit
+#: Trinity/units/Ancient_Avatar.cfg:5 Trinity/units/Ancient_Avatar.cfg:155
 msgid "Avatar"
 msgstr ""
 
@@ -7198,14 +7401,14 @@ msgstr ""
 #. [regenerate]: id=immortal
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:45
 #: Trinity/units/Trinity_Destroyer.cfg:378 Trinity/units/Primeval_Hera.cfg:36
-#: Trinity/units/Ancient_Avatar.cfg:37
+#: Trinity/units/Ancient_Avatar.cfg:37 Trinity/units/Ancient_Avatar.cfg:187
 msgid "immortal"
 msgstr ""
 
 #. [regenerate]: id=immortal
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:47
 #: Trinity/units/Trinity_Destroyer.cfg:380 Trinity/units/Primeval_Hera.cfg:38
-#: Trinity/units/Ancient_Avatar.cfg:39
+#: Trinity/units/Ancient_Avatar.cfg:39 Trinity/units/Ancient_Avatar.cfg:189
 msgid ""
 "immortal:\n"
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
@@ -7219,6 +7422,71 @@ msgstr ""
 #. [attack]: type=arcane
 #: Trinity/units/Ancient_Avatar.cfg:56
 msgid "Remorse"
+msgstr ""
+
+#. [unit_type]: id=Trinity Avatar2, race=phantom_spirit
+#: Trinity/units/Ancient_Avatar.cfg:173
+msgid ""
+"This is a representation of something not of this world.  \n"
+"Special Note:  This unit cannot be killed."
+msgstr ""
+
+#. [attack]: type=blade
+#: Trinity/units/Ancient_Avatar.cfg:234
+msgid "Wind Lash"
+msgstr ""
+
+#. [attack]: type=fire
+#: Trinity/units/Ancient_Avatar.cfg:243
+msgid "lightning"
+msgstr ""
+
+#. [unit_type]: id=Trinity Claw, race=phantom_spirit
+#: Trinity/units/Ancient_Avatar.cfg:389
+msgid "Evil Claw"
+msgstr ""
+
+#. [unit_type]: id=Trinity Claw, race=phantom_spirit
+#. [unit_type]: id=Trinity Whirl, race=phantom_spirit
+#. [unit_type]: id=Trinity Flame, race=phantom_spirit
+#: Trinity/units/Ancient_Avatar.cfg:405 Trinity/units/Ancient_Avatar.cfg:573
+#: Trinity/units/Ancient_Avatar.cfg:739
+msgid "This is a representation of something not of this world."
+msgstr ""
+
+#. [attack]: type=arcane
+#: Trinity/units/Ancient_Avatar.cfg:447
+msgid "Claw"
+msgstr ""
+
+#. [attack]: type=arcane
+#: Trinity/units/Ancient_Avatar.cfg:457 Trinity/units/Ancient_Avatar.cfg:624
+msgid "Blast"
+msgstr ""
+
+#. [unit_type]: id=Trinity Whirl, race=phantom_spirit
+#: Trinity/units/Ancient_Avatar.cfg:557
+msgid "Evil Whirl"
+msgstr ""
+
+#. [attack]: type=blade
+#: Trinity/units/Ancient_Avatar.cfg:615
+msgid "Lash"
+msgstr ""
+
+#. [unit_type]: id=Trinity Flame, race=phantom_spirit
+#: Trinity/units/Ancient_Avatar.cfg:723
+msgid "Evil Whisp"
+msgstr ""
+
+#. [attack]: type=cold
+#: Trinity/units/Ancient_Avatar.cfg:781
+msgid "Chill"
+msgstr ""
+
+#. [attack]: type=cold
+#: Trinity/units/Ancient_Avatar.cfg:793
+msgid "Cold Gust"
 msgstr ""
 
 #. [unit_type]: id=Battle Queen, race=human
