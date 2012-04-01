@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-02-26 17:25+0100\n"
+"POT-Creation-Date: 2012-04-01 18:30-0400\n"
 "PO-Revision-Date: 2012-02-26 17:25+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -136,17 +136,17 @@ msgid "Well, almost everyone..."
 msgstr ""
 
 #. [objective]: condition=win
-#: Trinity/scenarios/00_Pre.cfg:24 Trinity/scenarios/00_Intro.cfg:47
+#: Trinity/scenarios/00_Intro.cfg:47 Trinity/scenarios/00_Pre.cfg:24
 msgid "Keep it real. Mad real."
 msgstr ""
 
 #. [objective]: condition=lose
-#: Trinity/scenarios/00_Pre.cfg:28 Trinity/scenarios/00_Intro.cfg:51
+#: Trinity/scenarios/00_Intro.cfg:51 Trinity/scenarios/00_Pre.cfg:28
 msgid "Not keepin' it real."
 msgstr ""
 
 #. [side]: type=Haldrad Fighter, id=Haldrad
-#: Trinity/scenarios/00_Pre.cfg:70 Trinity/scenarios/00_Intro.cfg:70
+#: Trinity/scenarios/00_Intro.cfg:70 Trinity/scenarios/00_Pre.cfg:70
 #: Trinity/scenarios/3_H01_Beggar.cfg:95
 msgid "Prince Haldrad"
 msgstr ""
@@ -239,21 +239,22 @@ msgid "Move Haldrad and Dardrus past the city gates. (signpost)"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Trinity/scenarios/3_H01_Beggar.cfg:55 Trinity/scenarios/3_H02_Weldyn.cfg:52
+#: Trinity/scenarios/3_H03_Spirits.cfg:43
 #: Trinity/scenarios/3_H04_Signal.cfg:59
-#: Trinity/scenarios/3_H04_Signal.cfg:322 Trinity/scenarios/F2b_Pass.cfg:43
-#: Trinity/scenarios/F2b_Pass.cfg:797 Trinity/scenarios/F5b_Illusions.cfg:49
-#: Trinity/scenarios/F5b_Illusions.cfg:366
+#: Trinity/scenarios/3_H04_Signal.cfg:322
+#: Trinity/scenarios/3_H05_Encounter.cfg:471
+#: Trinity/scenarios/3_H05_Encounter.cfg:954
+#: Trinity/scenarios/F1a_Onslaught.cfg:44 Trinity/scenarios/F1b_Wesmere.cfg:48
+#: Trinity/scenarios/F2a_Air.cfg:62 Trinity/scenarios/F2b_Pass.cfg:43
+#: Trinity/scenarios/F2b_Pass.cfg:797 Trinity/scenarios/F3a_Phantom.cfg:48
+#: Trinity/scenarios/F3b_Vrug.cfg:41 Trinity/scenarios/F4a_Hera.cfg:55
+#: Trinity/scenarios/F4b_Betrayal.cfg:41
 #: Trinity/scenarios/F5a_Destroyer.cfg:347
 #: Trinity/scenarios/F5a_Destroyer.cfg:1479
 #: Trinity/scenarios/F5a_Destroyer.cfg:1589
-#: Trinity/scenarios/3_H03_Spirits.cfg:43
-#: Trinity/scenarios/3_H02_Weldyn.cfg:52 Trinity/scenarios/F3b_Vrug.cfg:41
-#: Trinity/scenarios/F4b_Betrayal.cfg:41 Trinity/scenarios/F3a_Phantom.cfg:48
-#: Trinity/scenarios/Z_Epilogue.cfg:60 Trinity/scenarios/F4a_Hera.cfg:55
-#: Trinity/scenarios/3_H05_Encounter.cfg:471
-#: Trinity/scenarios/3_H05_Encounter.cfg:954
-#: Trinity/scenarios/3_H01_Beggar.cfg:55 Trinity/scenarios/F2a_Air.cfg:62
-#: Trinity/scenarios/F1b_Wesmere.cfg:48 Trinity/scenarios/F1a_Onslaught.cfg:44
+#: Trinity/scenarios/F5b_Illusions.cfg:49
+#: Trinity/scenarios/F5b_Illusions.cfg:366 Trinity/scenarios/Z_Epilogue.cfg:60
 msgid "Death of Haldrad"
 msgstr ""
 
@@ -263,11 +264,11 @@ msgid "Death of Dardarus"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Trinity/scenarios/3_P04p2_Blockage.cfg:54
-#: Trinity/scenarios/3_P02_Entrance.cfg:47
+#: Trinity/scenarios/3_H01_Beggar.cfg:63 Trinity/scenarios/3_K01_Ship.cfg:257
 #: Trinity/scenarios/3_P01_Village.cfg:198
-#: Trinity/scenarios/3_H01_Beggar.cfg:63 Trinity/scenarios/3_P04_Engine.cfg:58
-#: Trinity/scenarios/3_K01_Ship.cfg:257 Trinity/scenarios/3_P03_Cave.cfg:60
+#: Trinity/scenarios/3_P02_Entrance.cfg:47 Trinity/scenarios/3_P03_Cave.cfg:60
+#: Trinity/scenarios/3_P04_Engine.cfg:58
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:54
 msgid "Time runs out"
 msgstr ""
 
@@ -538,20 +539,22 @@ msgid "Survive until the end of turns"
 msgstr ""
 
 #. [objective]: condition=lose
+#: Trinity/scenarios/3_H02_Weldyn.cfg:56
+#: Trinity/scenarios/3_H03_Spirits.cfg:47
 #: Trinity/scenarios/3_H04_Signal.cfg:67
-#: Trinity/scenarios/3_H04_Signal.cfg:330 Trinity/scenarios/F2b_Pass.cfg:47
-#: Trinity/scenarios/F2b_Pass.cfg:801 Trinity/scenarios/F5b_Illusions.cfg:53
-#: Trinity/scenarios/F5b_Illusions.cfg:370
+#: Trinity/scenarios/3_H04_Signal.cfg:330
+#: Trinity/scenarios/3_H05_Encounter.cfg:475
+#: Trinity/scenarios/3_H05_Encounter.cfg:958
+#: Trinity/scenarios/F1a_Onslaught.cfg:48 Trinity/scenarios/F1b_Wesmere.cfg:52
+#: Trinity/scenarios/F2a_Air.cfg:66 Trinity/scenarios/F2b_Pass.cfg:47
+#: Trinity/scenarios/F2b_Pass.cfg:801 Trinity/scenarios/F3a_Phantom.cfg:52
+#: Trinity/scenarios/F3b_Vrug.cfg:45 Trinity/scenarios/F4a_Hera.cfg:59
+#: Trinity/scenarios/F4b_Betrayal.cfg:45
 #: Trinity/scenarios/F5a_Destroyer.cfg:351
 #: Trinity/scenarios/F5a_Destroyer.cfg:1483
 #: Trinity/scenarios/F5a_Destroyer.cfg:1593
-#: Trinity/scenarios/3_H03_Spirits.cfg:47
-#: Trinity/scenarios/3_H02_Weldyn.cfg:56 Trinity/scenarios/F3b_Vrug.cfg:45
-#: Trinity/scenarios/F4b_Betrayal.cfg:45 Trinity/scenarios/F3a_Phantom.cfg:52
-#: Trinity/scenarios/Z_Epilogue.cfg:64 Trinity/scenarios/F4a_Hera.cfg:59
-#: Trinity/scenarios/3_H05_Encounter.cfg:475
-#: Trinity/scenarios/3_H05_Encounter.cfg:958 Trinity/scenarios/F2a_Air.cfg:66
-#: Trinity/scenarios/F1b_Wesmere.cfg:52 Trinity/scenarios/F1a_Onslaught.cfg:48
+#: Trinity/scenarios/F5b_Illusions.cfg:53
+#: Trinity/scenarios/F5b_Illusions.cfg:370 Trinity/scenarios/Z_Epilogue.cfg:64
 msgid "Death of Dardrus"
 msgstr ""
 
@@ -781,8 +784,8 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/3_H04_Signal.cfg:397
 #: Trinity/scenarios/3_H03_Spirits.cfg:294
+#: Trinity/scenarios/3_H04_Signal.cfg:397
 #: Trinity/scenarios/3_H05_Encounter.cfg:1060
 msgid "Oh, this is not good..."
 msgstr ""
@@ -792,8 +795,8 @@ msgstr ""
 msgid "Good riddence! Now, back to work..."
 msgstr ""
 
-#. [message]: speaker=Haldrad
 #. [message]: speaker=Echidna
+#. [message]: speaker=Haldrad
 #: Trinity/scenarios/3_H03_Spirits.cfg:325
 #: Trinity/scenarios/3_K03_Lord.cfg:394 Trinity/scenarios/3_K04_Storm.cfg:741
 msgid "Don't kill him!"
@@ -885,11 +888,6 @@ msgstr ""
 #. [objective]: condition=lose
 #: Trinity/scenarios/3_H04_Signal.cfg:71
 #: Trinity/scenarios/3_H04_Signal.cfg:334
-#: Trinity/scenarios/3_H06_Reversal.cfg:37
-#: Trinity/scenarios/3_P05_Landing.cfg:71
-#: Trinity/scenarios/3_P05_Landing.cfg:336
-#: Trinity/scenarios/3_P05_Landing.cfg:422
-#: Trinity/scenarios/3_K06_Choice.cfg:48
 #: Trinity/scenarios/3_H05_Encounter.cfg:54
 #: Trinity/scenarios/3_H05_Encounter.cfg:58
 #: Trinity/scenarios/3_H05_Encounter.cfg:62
@@ -897,7 +895,12 @@ msgstr ""
 #: Trinity/scenarios/3_H05_Encounter.cfg:70
 #: Trinity/scenarios/3_H05_Encounter.cfg:483
 #: Trinity/scenarios/3_H05_Encounter.cfg:962
+#: Trinity/scenarios/3_H06_Reversal.cfg:37
 #: Trinity/scenarios/3_K05_Interrogation.cfg:39
+#: Trinity/scenarios/3_K06_Choice.cfg:48
+#: Trinity/scenarios/3_P05_Landing.cfg:71
+#: Trinity/scenarios/3_P05_Landing.cfg:336
+#: Trinity/scenarios/3_P05_Landing.cfg:422
 msgid "Time Runs Out"
 msgstr ""
 
@@ -1466,8 +1469,8 @@ msgid ""
 "At least they were human..."
 msgstr ""
 
-#. [message]: speaker=Bresda_
 #. [message]: speaker=$stopper.id
+#. [message]: speaker=Bresda_
 #: Trinity/scenarios/3_H06_Reversal.cfg:146
 #: Trinity/scenarios/F1a_Onslaught.cfg:521
 msgid "Halt!"
@@ -1587,7 +1590,7 @@ msgid "Slay the Elves"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Trinity/scenarios/3_K02_Elves.cfg:44 Trinity/scenarios/3_K01_Ship.cfg:253
+#: Trinity/scenarios/3_K01_Ship.cfg:253 Trinity/scenarios/3_K02_Elves.cfg:44
 msgid "Death of Echidna/Leggon"
 msgstr ""
 
@@ -1597,7 +1600,7 @@ msgid "Glendora"
 msgstr ""
 
 #. [side]: type=Elvish Hero, id=Echidna, race=khthon
-#: Trinity/scenarios/3_K02_Elves.cfg:123 Trinity/scenarios/3_K01_Ship.cfg:319
+#: Trinity/scenarios/3_K01_Ship.cfg:319 Trinity/scenarios/3_K02_Elves.cfg:123
 msgid "Leggon"
 msgstr ""
 
@@ -1647,7 +1650,7 @@ msgid "Leggon, please don't do this."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Trinity/scenarios/3_K02_Elves.cfg:273 Trinity/scenarios/3_K01_Ship.cfg:421
+#: Trinity/scenarios/3_K01_Ship.cfg:421 Trinity/scenarios/3_K02_Elves.cfg:273
 msgid "I am not Leggon..."
 msgstr ""
 
@@ -1665,8 +1668,8 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Echidna
-#: Trinity/scenarios/3_K02_Elves.cfg:575 Trinity/scenarios/3_K03_Lord.cfg:450
-#: Trinity/scenarios/3_K04_Storm.cfg:1141 Trinity/scenarios/3_K01_Ship.cfg:485
+#: Trinity/scenarios/3_K01_Ship.cfg:485 Trinity/scenarios/3_K02_Elves.cfg:575
+#: Trinity/scenarios/3_K03_Lord.cfg:450 Trinity/scenarios/3_K04_Storm.cfg:1141
 msgid ""
 "Ah, at least I had a second chance... Sadly, the cold-hearted demons will "
 "rule this world..."
@@ -1712,14 +1715,14 @@ msgid "Iliena"
 msgstr ""
 
 #. [side]: type=Elvish Marshal, id=Keldan
+#. [side]: type=Keldan, id=Keldan_a, race=khthon
 #. [side]: type=Keldan, race=khthon, id=Keldan_
 #. [side]: type=Keldan, race=khthon, id=Keldan_a
-#. [side]: type=Keldan, id=Keldan_a, race=khthon
 #: Trinity/scenarios/3_K02_Elves.cfg:155 Trinity/scenarios/3_K04_Storm.cfg:276
-#: Trinity/scenarios/F3b_Vrug.cfg:181 Trinity/scenarios/F4b_Betrayal.cfg:175
-#: Trinity/scenarios/F3a_Phantom.cfg:172 Trinity/scenarios/F2a_Air.cfg:138
-#: Trinity/scenarios/F1b_Wesmere.cfg:226
 #: Trinity/scenarios/F1a_Onslaught.cfg:224
+#: Trinity/scenarios/F1b_Wesmere.cfg:226 Trinity/scenarios/F2a_Air.cfg:138
+#: Trinity/scenarios/F3a_Phantom.cfg:172 Trinity/scenarios/F3b_Vrug.cfg:181
+#: Trinity/scenarios/F4b_Betrayal.cfg:175
 msgid "Keldan"
 msgstr ""
 
@@ -1918,22 +1921,22 @@ msgstr ""
 msgid "Ullien-Del"
 msgstr ""
 
-#. [unit_type]: id=EchidnaMid, race=khthon
-#. [unit_type]: id=EchidnaLow, race=khthon
-#. [unit_type]: id=Trinity Echidna, race=khthon
-#. [unit_type]: id=Echidna, race=khthon
-#. [side]: type=EchidnaMid, id=Echidna_a
 #. [side]: type=Echidna, id=Echidna
 #. [side]: type=EchidnaLow, id=Echidna, race=khthon
-#. [side]: type=Trinity Echidna Sceptre, id=Echidna_b
+#. [side]: type=EchidnaMid, id=Echidna_a
 #. [side]: type=EchidnaMid, id=Echidna_a, race=khthon
-#: Trinity/units/Echidna-Mid.cfg:5 Trinity/units/Echidna-Low.cfg:8
-#: Trinity/units/Trinity_Echidna.cfg:5 Trinity/units/Echidna.cfg:5
-#: Trinity/scenarios/F2b_Pass.cfg:244 Trinity/scenarios/F5a_Destroyer.cfg:136
+#. [side]: type=Trinity Echidna Sceptre, id=Echidna_b
+#. [unit_type]: id=Echidna, race=khthon
+#. [unit_type]: id=EchidnaLow, race=khthon
+#. [unit_type]: id=EchidnaMid, race=khthon
+#. [unit_type]: id=Trinity Echidna, race=khthon
 #: Trinity/scenarios/3_K03_Lord.cfg:195 Trinity/scenarios/3_K04_Storm.cfg:187
-#: Trinity/scenarios/F4b_Betrayal.cfg:113
-#: Trinity/scenarios/F1b_Wesmere.cfg:174
 #: Trinity/scenarios/F1a_Onslaught.cfg:181
+#: Trinity/scenarios/F1b_Wesmere.cfg:174 Trinity/scenarios/F2b_Pass.cfg:244
+#: Trinity/scenarios/F4b_Betrayal.cfg:113
+#: Trinity/scenarios/F5a_Destroyer.cfg:136 Trinity/units/Echidna-Low.cfg:8
+#: Trinity/units/Echidna-Mid.cfg:5 Trinity/units/Echidna.cfg:5
+#: Trinity/units/Trinity_Echidna.cfg:5
 msgid "Echidna"
 msgstr ""
 
@@ -2025,14 +2028,14 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Trinity/scenarios/F5b_Illusions.cfg:45
-#: Trinity/scenarios/F5b_Illusions.cfg:362
 #: Trinity/scenarios/3_K04_Storm.cfg:80 Trinity/scenarios/3_K04_Storm.cfg:1034
+#: Trinity/scenarios/3_P01_Village.cfg:182
 #: Trinity/scenarios/3_P05_Landing.cfg:59
 #: Trinity/scenarios/3_P05_Landing.cfg:324
 #: Trinity/scenarios/3_P05_Landing.cfg:410
-#: Trinity/scenarios/3_P01_Village.cfg:182
 #: Trinity/scenarios/F4b_Betrayal.cfg:37
+#: Trinity/scenarios/F5b_Illusions.cfg:45
+#: Trinity/scenarios/F5b_Illusions.cfg:362
 msgid "Defeat Enemy Leaders"
 msgstr ""
 
@@ -2206,34 +2209,34 @@ msgid ""
 "will to fight. The Khthon rise again!"
 msgstr ""
 
-#. [unit_type]: id=EchidnaMid, race=khthon
-#. [unit_type]: id=SouthSeas Pirate, race=south-seas_human
-#. [unit_type]: id=SouthSeas Corsair, race=south-seas_human
-#. [unit_type]: id=SouthSeas Seadog, race=south-seas_human
-#. [unit_type]: id=Kraken, race=monster
-#. [unit_type]: id=Trinity Cannon, race=human
-#. [unit_type]: id=Harridan, race=south-seas_human
-#. [unit_type]: id=Termagant, race=south-seas_human
-#. [unit_type]: id=Virago, race=south-seas_human
-#. [unit_type]: id=Seth, race=phantom_egypt
-#. [unit_type]: id=Primeval Chariot, race=primeval
-#. [unit_type]: id=Hostage, race=primevalist_human
-#. [unit_type]: id=EchidnaLow, race=khthon
-#. [objective]: condition=win
-#. [message]: speaker=Nemesis
-#. [message]: speaker=Saleanna
 #. [message]: speaker=Daenyr
+#. [message]: speaker=Nemesis
 #. [message]: speaker=Ponce
-#: Trinity/units/Echidna-Mid.cfg:21 Trinity/units/Ponce.cfg:30
-#: Trinity/units/Ponce.cfg:124 Trinity/units/Ponce.cfg:224
-#: Trinity/units/Sea-Monsters.cfg:25 Trinity/units/Cannon.cfg:22
-#: Trinity/units/Bresda.cfg:24 Trinity/units/Bresda.cfg:93
-#: Trinity/units/Bresda.cfg:184 Trinity/units/Seth.cfg:21
-#: Trinity/units/Chariot.cfg:39 Trinity/units/Hostage.cfg:27
-#: Trinity/units/Echidna-Low.cfg:24 Trinity/scenarios/F5a_Destroyer.cfg:31
-#: Trinity/scenarios/F5a_Destroyer.cfg:1690
+#. [message]: speaker=Saleanna
+#. [objective]: condition=win
+#. [unit_type]: id=EchidnaLow, race=khthon
+#. [unit_type]: id=EchidnaMid, race=khthon
+#. [unit_type]: id=Harridan, race=south-seas_human
+#. [unit_type]: id=Hostage, race=primevalist_human
+#. [unit_type]: id=Kraken, race=monster
+#. [unit_type]: id=Primeval Chariot, race=primeval
+#. [unit_type]: id=Seth, race=phantom_egypt
+#. [unit_type]: id=SouthSeas Corsair, race=south-seas_human
+#. [unit_type]: id=SouthSeas Pirate, race=south-seas_human
+#. [unit_type]: id=SouthSeas Seadog, race=south-seas_human
+#. [unit_type]: id=Termagant, race=south-seas_human
+#. [unit_type]: id=Trinity Cannon, race=human
+#. [unit_type]: id=Virago, race=south-seas_human
 #: Trinity/scenarios/3_K04_Storm.cfg:800 Trinity/scenarios/3_K04_Storm.cfg:804
 #: Trinity/scenarios/3_P04_Engine.cfg:232
+#: Trinity/scenarios/F5a_Destroyer.cfg:31
+#: Trinity/scenarios/F5a_Destroyer.cfg:1690 Trinity/units/Bresda.cfg:24
+#: Trinity/units/Bresda.cfg:93 Trinity/units/Bresda.cfg:184
+#: Trinity/units/Cannon.cfg:22 Trinity/units/Chariot.cfg:39
+#: Trinity/units/Echidna-Low.cfg:24 Trinity/units/Echidna-Mid.cfg:21
+#: Trinity/units/Hostage.cfg:27 Trinity/units/Ponce.cfg:30
+#: Trinity/units/Ponce.cfg:124 Trinity/units/Ponce.cfg:224
+#: Trinity/units/Sea-Monsters.cfg:25 Trinity/units/Seth.cfg:21
 msgid "..."
 msgstr ""
 
@@ -2271,8 +2274,8 @@ msgstr ""
 msgid "What is it? Approach."
 msgstr ""
 
-#. [message]: speaker=Saleanna
 #. [message]: speaker=Daenyr
+#. [message]: speaker=Saleanna
 #: Trinity/scenarios/3_K04_Storm.cfg:856 Trinity/scenarios/3_K04_Storm.cfg:943
 msgid "Well?"
 msgstr ""
@@ -2533,38 +2536,39 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=lose
+#: Trinity/scenarios/3_P01_Village.cfg:186
+#: Trinity/scenarios/3_P02_Entrance.cfg:35 Trinity/scenarios/3_P03_Cave.cfg:56
+#: Trinity/scenarios/3_P04_Engine.cfg:46
 #: Trinity/scenarios/3_P04p2_Blockage.cfg:42
-#: Trinity/scenarios/3_P02_Entrance.cfg:35
 #: Trinity/scenarios/3_P05_Landing.cfg:63
 #: Trinity/scenarios/3_P05_Landing.cfg:328
 #: Trinity/scenarios/3_P05_Landing.cfg:414
-#: Trinity/scenarios/3_P01_Village.cfg:186
-#: Trinity/scenarios/3_P04_Engine.cfg:46 Trinity/scenarios/3_P03_Cave.cfg:56
 msgid "Death of Nemesis"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Trinity/scenarios/3_P04p2_Blockage.cfg:50
-#: Trinity/scenarios/3_P02_Entrance.cfg:43
 #: Trinity/scenarios/3_P01_Village.cfg:190
-#: Trinity/scenarios/3_P04_Engine.cfg:54 Trinity/scenarios/3_P03_Cave.cfg:52
+#: Trinity/scenarios/3_P02_Entrance.cfg:43 Trinity/scenarios/3_P03_Cave.cfg:52
+#: Trinity/scenarios/3_P04_Engine.cfg:54
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:50
 msgid "Death of Ponce"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Trinity/scenarios/3_P04p2_Blockage.cfg:46 Trinity/scenarios/F2b_Pass.cfg:51
-#: Trinity/scenarios/F2b_Pass.cfg:805 Trinity/scenarios/3_P02_Entrance.cfg:39
-#: Trinity/scenarios/F5a_Destroyer.cfg:355
-#: Trinity/scenarios/F5a_Destroyer.cfg:1487
-#: Trinity/scenarios/F5a_Destroyer.cfg:1597
+#: Trinity/scenarios/3_P01_Village.cfg:194
+#: Trinity/scenarios/3_P02_Entrance.cfg:39 Trinity/scenarios/3_P03_Cave.cfg:48
+#: Trinity/scenarios/3_P04_Engine.cfg:50
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:46
 #: Trinity/scenarios/3_P05_Landing.cfg:67
 #: Trinity/scenarios/3_P05_Landing.cfg:332
 #: Trinity/scenarios/3_P05_Landing.cfg:418
-#: Trinity/scenarios/3_P01_Village.cfg:194
-#: Trinity/scenarios/F3a_Phantom.cfg:56 Trinity/scenarios/Z_Epilogue.cfg:68
-#: Trinity/scenarios/F4a_Hera.cfg:63 Trinity/scenarios/F2a_Air.cfg:70
-#: Trinity/scenarios/3_P04_Engine.cfg:50 Trinity/scenarios/F1b_Wesmere.cfg:56
-#: Trinity/scenarios/3_P03_Cave.cfg:48 Trinity/scenarios/F1a_Onslaught.cfg:52
+#: Trinity/scenarios/F1a_Onslaught.cfg:52 Trinity/scenarios/F1b_Wesmere.cfg:56
+#: Trinity/scenarios/F2a_Air.cfg:70 Trinity/scenarios/F2b_Pass.cfg:51
+#: Trinity/scenarios/F2b_Pass.cfg:805 Trinity/scenarios/F3a_Phantom.cfg:56
+#: Trinity/scenarios/F4a_Hera.cfg:63 Trinity/scenarios/F5a_Destroyer.cfg:355
+#: Trinity/scenarios/F5a_Destroyer.cfg:1487
+#: Trinity/scenarios/F5a_Destroyer.cfg:1597
+#: Trinity/scenarios/Z_Epilogue.cfg:68
 msgid "Death of Bresda"
 msgstr ""
 
@@ -2583,28 +2587,29 @@ msgstr ""
 msgid "Izara"
 msgstr ""
 
-#. [side]: type=Primeval Nemesislow, id=Nemesis
 #. [side]: type=Primeval Nemesishi, id=Nemesis
+#. [side]: type=Primeval Nemesislow, id=Nemesis
 #. [side]: type=Primeval Nemesislow, id=Nemesis_
-#: Trinity/scenarios/3_P04p2_Blockage.cfg:160
-#: Trinity/scenarios/F2b_Pass.cfg:199 Trinity/scenarios/3_P02_Entrance.cfg:168
-#: Trinity/scenarios/F5a_Destroyer.cfg:156 Trinity/scenarios/F3b_Vrug.cfg:164
-#: Trinity/scenarios/3_P05_Landing.cfg:133
 #: Trinity/scenarios/3_P01_Village.cfg:288
-#: Trinity/scenarios/F4b_Betrayal.cfg:158
-#: Trinity/scenarios/F3a_Phantom.cfg:197 Trinity/scenarios/Z_Epilogue.cfg:118
-#: Trinity/scenarios/F4a_Hera.cfg:167 Trinity/scenarios/F2a_Air.cfg:175
-#: Trinity/scenarios/3_P04_Engine.cfg:175
-#: Trinity/scenarios/F1b_Wesmere.cfg:209 Trinity/scenarios/3_P03_Cave.cfg:195
+#: Trinity/scenarios/3_P02_Entrance.cfg:168
+#: Trinity/scenarios/3_P03_Cave.cfg:195 Trinity/scenarios/3_P04_Engine.cfg:175
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:160
+#: Trinity/scenarios/3_P05_Landing.cfg:133
 #: Trinity/scenarios/F1a_Onslaught.cfg:207
+#: Trinity/scenarios/F1b_Wesmere.cfg:209 Trinity/scenarios/F2a_Air.cfg:175
+#: Trinity/scenarios/F2b_Pass.cfg:199 Trinity/scenarios/F3a_Phantom.cfg:197
+#: Trinity/scenarios/F3b_Vrug.cfg:164 Trinity/scenarios/F4a_Hera.cfg:167
+#: Trinity/scenarios/F4b_Betrayal.cfg:158
+#: Trinity/scenarios/F5a_Destroyer.cfg:156
+#: Trinity/scenarios/Z_Epilogue.cfg:118
 msgid "Nemesis"
 msgstr ""
 
+#. [side]: type=Harridan, id=Bresda_
 #. [side]: type=Primevalist Heroine, id=Bresda
 #. [unit]: type=Hostage, id=Bresda_a
-#. [side]: type=Harridan, id=Bresda_
-#: Trinity/scenarios/F5a_Destroyer.cfg:554 Trinity/scenarios/F3b_Vrug.cfg:225
-#: Trinity/scenarios/3_P01_Village.cfg:302
+#: Trinity/scenarios/3_P01_Village.cfg:302 Trinity/scenarios/F3b_Vrug.cfg:225
+#: Trinity/scenarios/F5a_Destroyer.cfg:554
 msgid "Bresda Varden"
 msgstr ""
 
@@ -2841,11 +2846,11 @@ msgstr ""
 msgid "That's too bad... I found him amusing."
 msgstr ""
 
+#. [message]: speaker=Bresda
 #. [message]: speaker=Bresda_
 #. [message]: speaker=Echidna_a
-#. [message]: speaker=Bresda
-#: Trinity/scenarios/3_P01_Village.cfg:655 Trinity/scenarios/F2a_Air.cfg:318
-#: Trinity/scenarios/3_P03_Cave.cfg:587
+#: Trinity/scenarios/3_P01_Village.cfg:655
+#: Trinity/scenarios/3_P03_Cave.cfg:587 Trinity/scenarios/F2a_Air.cfg:318
 msgid "No!"
 msgstr ""
 
@@ -2924,8 +2929,8 @@ msgid "Grrrah! What are you?"
 msgstr ""
 
 #. [message]
-#: Trinity/scenarios/3_P02_Entrance.cfg:508
 #: Trinity/scenarios/3_P01_Village.cfg:800
+#: Trinity/scenarios/3_P02_Entrance.cfg:508
 msgid ""
 "Our friends from the hills have come to assist. Not even the Angel of Death "
 "can save them now..."
@@ -3579,8 +3584,8 @@ msgid "Well done. Let us see find out why the Engine is dormant."
 msgstr ""
 
 #. [message]: speaker=second_unit
-#: Trinity/scenarios/3_P04p2_Blockage.cfg:344
 #: Trinity/scenarios/3_P04_Engine.cfg:389
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:344
 msgid "Hhhissss!"
 msgstr ""
 
@@ -3605,17 +3610,17 @@ msgid "This island really has been over-run by reptiles."
 msgstr ""
 
 #. [message]: speaker=Nemesis
+#: Trinity/scenarios/3_P04_Engine.cfg:416
 #: Trinity/scenarios/3_P04p2_Blockage.cfg:367
 #: Trinity/scenarios/3_P05_Landing.cfg:530
-#: Trinity/scenarios/3_P04_Engine.cfg:416
 msgid "How could this happen..."
 msgstr ""
 
 #. [message]: speaker=Nemesis
-#: Trinity/scenarios/3_P04p2_Blockage.cfg:381
-#: Trinity/scenarios/3_P04p2_Blockage.cfg:395
 #: Trinity/scenarios/3_P04_Engine.cfg:430
 #: Trinity/scenarios/3_P04_Engine.cfg:444
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:381
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:395
 msgid "They have fought bravely, I should have taken better care..."
 msgstr ""
 
@@ -3655,9 +3660,9 @@ msgstr ""
 msgid "Clear out the Engine intake"
 msgstr ""
 
-#. [unit_type]: id=Kraken, race=monster
 #. [side]: type=Kraken, id=Kraken
-#: Trinity/units/Sea-Monsters.cfg:4 Trinity/scenarios/3_P04p2_Blockage.cfg:98
+#. [unit_type]: id=Kraken, race=monster
+#: Trinity/scenarios/3_P04p2_Blockage.cfg:98 Trinity/units/Sea-Monsters.cfg:4
 msgid "Kraken"
 msgstr ""
 
@@ -4281,33 +4286,33 @@ msgstr ""
 msgid "Not here, unfortunately for us."
 msgstr ""
 
-#. [message]: speaker=Haldrad
-#. [message]: speaker=Dardrus
 #. [message]: speaker=Bresda
-#: Trinity/scenarios/F2b_Pass.cfg:598 Trinity/scenarios/F5b_Illusions.cfg:1139
+#. [message]: speaker=Dardrus
+#. [message]: speaker=Haldrad
+#: Trinity/scenarios/F1a_Onslaught.cfg:799
+#: Trinity/scenarios/F1b_Wesmere.cfg:537 Trinity/scenarios/F2b_Pass.cfg:598
+#: Trinity/scenarios/F3a_Phantom.cfg:641 Trinity/scenarios/F3b_Vrug.cfg:586
+#: Trinity/scenarios/F4a_Hera.cfg:516 Trinity/scenarios/F4b_Betrayal.cfg:676
 #: Trinity/scenarios/F5a_Destroyer.cfg:2602
 #: Trinity/scenarios/F5a_Destroyer.cfg:2630
-#: Trinity/scenarios/F5a_Destroyer.cfg:2658 Trinity/scenarios/F3b_Vrug.cfg:586
-#: Trinity/scenarios/F4b_Betrayal.cfg:676
-#: Trinity/scenarios/F3a_Phantom.cfg:641 Trinity/scenarios/F4a_Hera.cfg:516
-#: Trinity/scenarios/F1b_Wesmere.cfg:537
-#: Trinity/scenarios/F1a_Onslaught.cfg:799
+#: Trinity/scenarios/F5a_Destroyer.cfg:2658
+#: Trinity/scenarios/F5b_Illusions.cfg:1139
 msgid "Oh, what a world..."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F2b_Pass.cfg:612 Trinity/scenarios/F5b_Illusions.cfg:1153
-#: Trinity/scenarios/F3b_Vrug.cfg:600 Trinity/scenarios/F4b_Betrayal.cfg:690
-#: Trinity/scenarios/F3a_Phantom.cfg:684 Trinity/scenarios/F4a_Hera.cfg:530
-#: Trinity/scenarios/F1b_Wesmere.cfg:551
 #: Trinity/scenarios/F1a_Onslaught.cfg:827
+#: Trinity/scenarios/F1b_Wesmere.cfg:551 Trinity/scenarios/F2b_Pass.cfg:612
+#: Trinity/scenarios/F3a_Phantom.cfg:684 Trinity/scenarios/F3b_Vrug.cfg:600
+#: Trinity/scenarios/F4a_Hera.cfg:530 Trinity/scenarios/F4b_Betrayal.cfg:690
+#: Trinity/scenarios/F5b_Illusions.cfg:1153
 msgid "I have no credibility with the winged one, Dardrus was my only hope..."
 msgstr ""
 
 #. [message]: speaker=Dardrus
-#: Trinity/scenarios/F2b_Pass.cfg:626 Trinity/scenarios/F3b_Vrug.cfg:614
-#: Trinity/scenarios/F1b_Wesmere.cfg:565
 #: Trinity/scenarios/F1a_Onslaught.cfg:841
+#: Trinity/scenarios/F1b_Wesmere.cfg:565 Trinity/scenarios/F2b_Pass.cfg:626
+#: Trinity/scenarios/F3b_Vrug.cfg:614
 msgid ""
 "We may still survive this Khthon onslaught, but I doubt Nemesis will remain "
 "on our side now..."
@@ -4473,16 +4478,15 @@ msgid "<i>*Sneeze!*</i>  I can hardly-<i>*Sneeze!*</i>-gahh."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F2b_Pass.cfg:640 Trinity/scenarios/F3b_Vrug.cfg:628
-#: Trinity/scenarios/F4b_Betrayal.cfg:730
-#: Trinity/scenarios/F1b_Wesmere.cfg:579
+#: Trinity/scenarios/F1b_Wesmere.cfg:579 Trinity/scenarios/F2b_Pass.cfg:640
+#: Trinity/scenarios/F3b_Vrug.cfg:628 Trinity/scenarios/F4b_Betrayal.cfg:730
 msgid ""
 "The prisoners are dead...  I wonder who they were, might my mother have been "
 "among them?"
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F2b_Pass.cfg:657 Trinity/scenarios/F1b_Wesmere.cfg:596
+#: Trinity/scenarios/F1b_Wesmere.cfg:596 Trinity/scenarios/F2b_Pass.cfg:657
 msgid ""
 "I shudder to think what that monster has done to those trapped in the "
 "wagon..."
@@ -4523,37 +4527,34 @@ msgid "That's it!  Let's move, Keldan.  We must act fast!"
 msgstr ""
 
 #. [message]: speaker=Keldan_a
-#: Trinity/scenarios/F2b_Pass.cfg:825 Trinity/scenarios/F3b_Vrug.cfg:785
-#: Trinity/scenarios/F4b_Betrayal.cfg:745
-#: Trinity/scenarios/F1b_Wesmere.cfg:708
+#: Trinity/scenarios/F1b_Wesmere.cfg:708 Trinity/scenarios/F2b_Pass.cfg:825
+#: Trinity/scenarios/F3b_Vrug.cfg:785 Trinity/scenarios/F4b_Betrayal.cfg:745
 msgid "I sense something..."
 msgstr ""
 
 #. [message]: speaker=Echidna_a
-#: Trinity/scenarios/F2b_Pass.cfg:829 Trinity/scenarios/F3b_Vrug.cfg:789
-#: Trinity/scenarios/F4b_Betrayal.cfg:749
-#: Trinity/scenarios/F1b_Wesmere.cfg:712
+#: Trinity/scenarios/F1b_Wesmere.cfg:712 Trinity/scenarios/F2b_Pass.cfg:829
+#: Trinity/scenarios/F3b_Vrug.cfg:789 Trinity/scenarios/F4b_Betrayal.cfg:749
 msgid "I know what this is, scatter!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Trinity/scenarios/F2b_Pass.cfg:833 Trinity/scenarios/F5b_Illusions.cfg:1169
+#: Trinity/scenarios/F1b_Wesmere.cfg:716 Trinity/scenarios/F2b_Pass.cfg:833
 #: Trinity/scenarios/F3b_Vrug.cfg:793 Trinity/scenarios/F4b_Betrayal.cfg:753
-#: Trinity/scenarios/F1b_Wesmere.cfg:716
+#: Trinity/scenarios/F5b_Illusions.cfg:1169
 msgid "The air turned dark and thick."
 msgstr ""
 
 #. [message]: speaker=Haldrad
-#: Trinity/scenarios/F2b_Pass.cfg:854 Trinity/scenarios/F5b_Illusions.cfg:1187
+#: Trinity/scenarios/F1b_Wesmere.cfg:737 Trinity/scenarios/F2b_Pass.cfg:854
 #: Trinity/scenarios/F3b_Vrug.cfg:814 Trinity/scenarios/F4b_Betrayal.cfg:774
-#: Trinity/scenarios/F1b_Wesmere.cfg:737
+#: Trinity/scenarios/F5b_Illusions.cfg:1187
 msgid "What is happening?"
 msgstr ""
 
 #. [message]: speaker=Bresda
-#: Trinity/scenarios/F2b_Pass.cfg:858 Trinity/scenarios/F3b_Vrug.cfg:818
-#: Trinity/scenarios/F4b_Betrayal.cfg:778
-#: Trinity/scenarios/F1b_Wesmere.cfg:741
+#: Trinity/scenarios/F1b_Wesmere.cfg:741 Trinity/scenarios/F2b_Pass.cfg:858
+#: Trinity/scenarios/F3b_Vrug.cfg:818 Trinity/scenarios/F4b_Betrayal.cfg:778
 msgid "I don't know!"
 msgstr ""
 
@@ -4611,13 +4612,13 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Trinity/scenarios/F3a_Phantom.cfg:44 Trinity/scenarios/F2a_Air.cfg:58
+#: Trinity/scenarios/F2a_Air.cfg:58 Trinity/scenarios/F3a_Phantom.cfg:44
 msgid "Find and defeat Seth"
 msgstr ""
 
 #. [side]: type=Mummy King, id=Amhotep
 #. [side]: type=Mummy Pharo, id=Amhotep
-#: Trinity/scenarios/F3a_Phantom.cfg:248 Trinity/scenarios/F2a_Air.cfg:190
+#: Trinity/scenarios/F2a_Air.cfg:190 Trinity/scenarios/F3a_Phantom.cfg:248
 msgid "Amhotep"
 msgstr ""
 
@@ -4654,9 +4655,9 @@ msgid ""
 "- we were one."
 msgstr ""
 
-#. [message]: speaker=Key Guard
 #. [message]: speaker=Keldan_a
-#: Trinity/scenarios/F5a_Destroyer.cfg:827 Trinity/scenarios/F2a_Air.cfg:251
+#. [message]: speaker=Key Guard
+#: Trinity/scenarios/F2a_Air.cfg:251 Trinity/scenarios/F5a_Destroyer.cfg:827
 msgid "... (?)"
 msgstr ""
 
@@ -5122,8 +5123,8 @@ msgstr ""
 msgid "What?"
 msgstr ""
 
-#. [message]: speaker=unit
 #. [message]: speaker=Bresda
+#. [message]: speaker=unit
 #: Trinity/scenarios/F3a_Phantom.cfg:552 Trinity/scenarios/F4a_Hera.cfg:364
 msgid "What is that?"
 msgstr ""
@@ -5278,9 +5279,9 @@ msgid ""
 "live hostage?"
 msgstr ""
 
-#. [message]: speaker=Seth_il
 #. [message]: speaker=Keldan_a
-#: Trinity/scenarios/F5b_Illusions.cfg:1101 Trinity/scenarios/F3b_Vrug.cfg:334
+#. [message]: speaker=Seth_il
+#: Trinity/scenarios/F3b_Vrug.cfg:334 Trinity/scenarios/F5b_Illusions.cfg:1101
 msgid "Out of my way!"
 msgstr ""
 
@@ -5510,18 +5511,18 @@ msgid ""
 msgstr ""
 
 #. [objective]: condition=win
-#: Trinity/scenarios/Z_Epilogue.cfg:56 Trinity/scenarios/F4a_Hera.cfg:51
+#: Trinity/scenarios/F4a_Hera.cfg:51 Trinity/scenarios/Z_Epilogue.cfg:56
 msgid "Gain entrance to the airship (move to one of the holes near top of map)"
 msgstr ""
 
 #. [objectives]
-#: Trinity/scenarios/Z_Epilogue.cfg:70 Trinity/scenarios/F4a_Hera.cfg:69
+#: Trinity/scenarios/F4a_Hera.cfg:69 Trinity/scenarios/Z_Epilogue.cfg:70
 msgid "Do not stay in the keeps for too long."
 msgstr ""
 
 #. [side]: type=Primeval Hera, id=Hera
-#: Trinity/scenarios/F5a_Destroyer.cfg:524 Trinity/scenarios/Z_Epilogue.cfg:95
-#: Trinity/scenarios/F4a_Hera.cfg:144
+#: Trinity/scenarios/F4a_Hera.cfg:144 Trinity/scenarios/F5a_Destroyer.cfg:524
+#: Trinity/scenarios/Z_Epilogue.cfg:95
 msgid "Hera"
 msgstr ""
 
@@ -5710,12 +5711,12 @@ msgid ""
 "as was the Sceptre."
 msgstr ""
 
-#. [unit_type]: id=Seth, race=phantom_egypt
-#. [side]: type=Seth, id=Seth_il
 #. [side]: type=Seth, id=Seth
-#: Trinity/units/Seth.cfg:5 Trinity/scenarios/F5b_Illusions.cfg:100
-#: Trinity/scenarios/F5b_Illusions.cfg:528
+#. [side]: type=Seth, id=Seth_il
+#. [unit_type]: id=Seth, race=phantom_egypt
 #: Trinity/scenarios/F4b_Betrayal.cfg:254
+#: Trinity/scenarios/F5b_Illusions.cfg:100
+#: Trinity/scenarios/F5b_Illusions.cfg:528 Trinity/units/Seth.cfg:5
 msgid "Seth"
 msgstr ""
 
@@ -5985,8 +5986,8 @@ msgstr ""
 msgid "For the first time in her life, Nemesis was truely scared..."
 msgstr ""
 
-#. [message]: speaker=Nemesis_
 #. [message]: speaker=Nemesis
+#. [message]: speaker=Nemesis_
 #: Trinity/scenarios/F5a_Destroyer.cfg:291
 #: Trinity/scenarios/F5a_Destroyer.cfg:2485
 msgid "<i>Snarl!</i>"
@@ -6538,8 +6539,8 @@ msgstr ""
 msgid "What is this?!"
 msgstr ""
 
-#. [message]: speaker=Haldrad
 #. [message]: speaker=Bresda
+#. [message]: speaker=Haldrad
 #: Trinity/scenarios/F5a_Destroyer.cfg:1947
 #: Trinity/scenarios/F5a_Destroyer.cfg:2089
 msgid "What kind of leader would I be if I left my supporters behind?"
@@ -7112,7 +7113,7 @@ msgstr ""
 
 #. [scenario]: id=Epilog_b
 #. [scenario]: id=Epilogue
-#: Trinity/scenarios/Zb_Epilogue.cfg:6 Trinity/scenarios/Z_Epilogue.cfg:6
+#: Trinity/scenarios/Z_Epilogue.cfg:6 Trinity/scenarios/Zb_Epilogue.cfg:6
 msgid "Epilogue"
 msgstr ""
 
@@ -7288,16 +7289,16 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=immortal
-#: Trinity/units/Primeval_Hera.cfg:36 Trinity/units/Trinity_Destroyer.cfg:378
 #: Trinity/units/Ancient_Avatar.cfg:37 Trinity/units/Ancient_Avatar.cfg:183
-#: Trinity/units/Primeval_Nemesis-Hi.cfg:45
+#: Trinity/units/Primeval_Hera.cfg:36 Trinity/units/Primeval_Nemesis-Hi.cfg:45
+#: Trinity/units/Trinity_Destroyer.cfg:378
 msgid "immortal"
 msgstr ""
 
 #. [regenerate]: id=immortal
-#: Trinity/units/Primeval_Hera.cfg:37 Trinity/units/Trinity_Destroyer.cfg:379
 #: Trinity/units/Ancient_Avatar.cfg:38 Trinity/units/Ancient_Avatar.cfg:184
-#: Trinity/units/Primeval_Nemesis-Hi.cfg:46
+#: Trinity/units/Primeval_Hera.cfg:37 Trinity/units/Primeval_Nemesis-Hi.cfg:46
+#: Trinity/units/Trinity_Destroyer.cfg:379
 msgid ""
 "immortal:\n"
 "This unit heals 99 HP per turn.  If poisoned, it will remove the poison."
@@ -7332,8 +7333,8 @@ msgstr ""
 
 #. [unit_type]: id=Trinity Claw, race=phantom_spirit
 #. [unit_type]: id=Trinity Fist, race=phantom_spirit
-#. [unit_type]: id=Trinity Whirl, race=phantom_spirit
 #. [unit_type]: id=Trinity Flame, race=phantom_spirit
+#. [unit_type]: id=Trinity Whirl, race=phantom_spirit
 #: Trinity/units/Ancient_Avatar.cfg:398 Trinity/units/Ancient_Avatar.cfg:565
 #: Trinity/units/Ancient_Avatar.cfg:664 Trinity/units/Ancient_Avatar.cfg:829
 msgid "This is a representation of something not of this world."
@@ -7550,13 +7551,13 @@ msgid "rock"
 msgstr ""
 
 #. [attack]: type=fire
-#: Trinity/units/Echidna-Mid.cfg:40 Trinity/units/Echidna-Low.cfg:43
+#: Trinity/units/Echidna-Low.cfg:43 Trinity/units/Echidna-Mid.cfg:40
 msgid "fire"
 msgstr ""
 
-#. [unit_type]: id=Trinity Echidna, race=khthon
 #. [unit_type]: id=Echidna, race=khthon
-#: Trinity/units/Trinity_Echidna.cfg:21 Trinity/units/Echidna.cfg:21
+#. [unit_type]: id=Trinity Echidna, race=khthon
+#: Trinity/units/Echidna.cfg:21 Trinity/units/Trinity_Echidna.cfg:21
 msgid ""
 "Echidna is said to be the mother of all Khthon monsters, though whether the "
 "term 'mother' has any meaning when applied to the Khthon is unknown. In any "
@@ -7567,19 +7568,19 @@ msgstr ""
 
 #. [attack]: type=cold
 #. [attack]: type=fire
-#: Trinity/units/Trinity_Echidna.cfg:64 Trinity/units/Echidna.cfg:58
+#: Trinity/units/Echidna.cfg:58 Trinity/units/Trinity_Echidna.cfg:64
 msgid "psyche"
 msgstr ""
 
-#. [variation]: id=Haldrad Commander, race=human
 #. [unit_type]: id=Haldrad Commander, race=human
+#. [variation]: id=Haldrad Commander, race=human
 #: Trinity/units/Haldrad-Commander.cfg:4
 #: Trinity/units/Haldrad-Commander.cfg:148
 msgid "Commander"
 msgstr ""
 
-#. [variation]: id=Haldrad Commander, race=human
 #. [unit_type]: id=Haldrad Commander, race=human
+#. [variation]: id=Haldrad Commander, race=human
 #: Trinity/units/Haldrad-Commander.cfg:27
 #: Trinity/units/Haldrad-Commander.cfg:171
 msgid ""
@@ -7590,8 +7591,8 @@ msgid ""
 "lost, so is the battle."
 msgstr ""
 
-#. [variation]: id=Haldrad Fighter, race=human
 #. [unit_type]: id=Haldrad Fighter, race=human
+#. [variation]: id=Haldrad Fighter, race=human
 #: Trinity/units/Haldrad-Fighter.cfg:4 Trinity/units/Haldrad-Fighter.cfg:33
 msgid "Fighter"
 msgstr ""
@@ -7612,14 +7613,14 @@ msgid ""
 "day."
 msgstr ""
 
-#. [variation]: id=Haldrad Lord, race=human
 #. [unit_type]: id=Haldrad Lord, race=human
+#. [variation]: id=Haldrad Lord, race=human
 #: Trinity/units/Haldrad-Lord.cfg:4 Trinity/units/Haldrad-Lord.cfg:175
 msgid "Lord"
 msgstr ""
 
-#. [variation]: id=Haldrad Lord, race=human
 #. [unit_type]: id=Haldrad Lord, race=human
+#. [variation]: id=Haldrad Lord, race=human
 #: Trinity/units/Haldrad-Lord.cfg:28 Trinity/units/Haldrad-Lord.cfg:199
 msgid ""
 "The noble leaders of many troops, Lords are especially strong in melee "
@@ -7680,10 +7681,10 @@ msgstr ""
 
 #. [attack]: type=arcane
 #. [attack]: type=cold
-#: Trinity/units/Primeval_Hera.cfg:58 Trinity/units/Trinity_Destroyer.cfg:397
-#: Trinity/units/Primeval_Nemesis-Hi.cfg:64
-#: Trinity/units/Primeval_Nemesis-Mid.cfg:51
+#: Trinity/units/Primeval_Hera.cfg:58 Trinity/units/Primeval_Nemesis-Hi.cfg:64
 #: Trinity/units/Primeval_Nemesis-Low.cfg:51
+#: Trinity/units/Primeval_Nemesis-Mid.cfg:51
+#: Trinity/units/Trinity_Destroyer.cfg:397
 msgid "glare"
 msgstr ""
 
@@ -7701,16 +7702,16 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=blade
-#: Trinity/units/Trinity_Destroyer.cfg:410
 #: Trinity/units/Primeval_Nemesis-Hi.cfg:77
 #: Trinity/units/Primeval_Nemesis-Mid.cfg:64
+#: Trinity/units/Trinity_Destroyer.cfg:410
 msgid "chakram"
 msgstr ""
 
-#. [unit_type]: id=Primeval Nemesismid, race=primeval
 #. [unit_type]: id=Primeval Nemesislow, race=primeval
-#: Trinity/units/Primeval_Nemesis-Mid.cfg:5
+#. [unit_type]: id=Primeval Nemesismid, race=primeval
 #: Trinity/units/Primeval_Nemesis-Low.cfg:5
+#: Trinity/units/Primeval_Nemesis-Mid.cfg:5
 msgid "Primeval Nemesis"
 msgstr ""
 
